@@ -1,1 +1,2 @@
 # Data_visualization
+For Data visualization we are doing for Hospitality of an hotel and what kind of revenue it has and the impact of various amenities and what type of people are coming, whether they are having chidren or not, if they are doing pre-booking before coming or not and various other factors like any extra spending they are doing for upgrading the room or amenitites. We are trying to figure out what the data insight we are getting or what story the data is trying to tell us which in-hand gives us knowledge of how the hotel is doing and where it can make changes.
